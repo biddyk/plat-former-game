@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://djtmpxuw43sgr"]
+
+[ext_resource type="PackedScene" uid="uid://6843b4vqgajm" path="res://platform.tscn" id="1_wwpct"]
+[ext_resource type="PackedScene" uid="uid://c7txut056sys2" path="res://player.tscn" id="2_2q0ce"]
+
+[node name="Node2D" type="Node2D"]
+scale = Vector2(1.00628, 0.862614)
+
+[node name="AnimatableBody2D" parent="." instance=ExtResource("1_wwpct")]
+position = Vector2(485.946, 279.383)
+
+[node name="CharacterBody2D" parent="." instance=ExtResource("2_2q0ce")]
+position = Vector2(424.333, 20.8668)
