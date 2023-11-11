@@ -1,0 +1,2 @@
+# plat-former-game
+This is a platformer RPG. Me and a friend are working on this game and if coding is a hobby we need people to help with our project. We are working on it in godot and sending it to mobile. Also the game is 2D and you can code and give ideas for levels or storyline. Its based on time travel so if you like space we can put space in. So if your interested in this game we'er happy to let you work with us and give you suport.     :)
